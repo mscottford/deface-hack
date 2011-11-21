@@ -1,0 +1,4 @@
+virtual_path "admin/shared/_product_tabs"
+insert_bottom "[data-hook='admin_product_tabs']"
+partial "admin/authors/tabs"
+enabled true
